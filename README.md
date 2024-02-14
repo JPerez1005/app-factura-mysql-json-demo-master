@@ -1,0 +1,6 @@
+![image](https://github.com/JPerez1005/app-factura-mysql-json-demo-master/assets/116776667/a5dd938b-19a9-402b-a366-5effaa9edc45)
+![image](https://github.com/JPerez1005/app-factura-mysql-json-demo-master/assets/116776667/4ca40f2c-4aed-401f-ab36-c9e84eb82718)
+![image](https://github.com/JPerez1005/app-factura-mysql-json-demo-master/assets/116776667/099f3d03-ff26-4e54-895e-4972ada677d0)
+![image](https://github.com/JPerez1005/app-factura-mysql-json-demo-master/assets/116776667/b7845a5e-5017-4e62-9dfe-43dc369f9ae8)
+![image](https://github.com/JPerez1005/app-factura-mysql-json-demo-master/assets/116776667/aed4d533-57c6-4f69-84aa-e4880197f788)
+![image](https://github.com/JPerez1005/app-factura-mysql-json-demo-master/assets/116776667/68f85552-5582-4151-bd07-2b4c7bf284ee)
